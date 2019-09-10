@@ -48,7 +48,7 @@ const Text = React.forwardRef((props, ref) => {
             text={text}
           />
         )
-      })}
+      }).toArray()}
     </span>
   )
 })
