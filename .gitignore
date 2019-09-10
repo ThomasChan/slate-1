@@ -2,7 +2,6 @@
 *.js.map
 build/
 dist/
-lib/
 
 # Temporary files.
 tmp/
